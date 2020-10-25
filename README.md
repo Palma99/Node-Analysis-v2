@@ -1,7 +1,7 @@
 # Analisi-Nodale v2
 
 ## Funzionamento
-Data una netlist, calcola i valori di tensione e corrente del circuito associato a tale netlist.
+Data una netlist, calcola i valori di tensione e corrente del circuito associato a tale netlist in regime stazionario.
 
 La netlist deve essere contenuta in un file dedicato `.net` che deve essere nella stessa cartella degli altri file.
 
@@ -42,7 +42,7 @@ V1 1 0 10
 R3 2 1 30000
 ```
 
-Verranno ignorate tutti i commenti o direttive all'interno della netlist.
+- Verranno ignorate tutti i commenti o direttive all'interno della netlist.
 
 - È possibile utilizzare prefissi come k, m, u, d, f, c, p per indicare le potenze del 10.
 
