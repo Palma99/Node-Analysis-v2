@@ -44,7 +44,9 @@ R3 2 1 30000
 
 Verranno ignorate tutti i commenti o direttive all'interno della netlist.
 
-**È possibile utilizzare** prefissi come k, m, u, d, f, c, p per indicare le potenze del 10.
+- È possibile utilizzare prefissi come k, m, u, d, f, c, p per indicare le potenze del 10.
+
+- Non supporta generatori pilotati.
 
 ## Link Utili
 [Algorithm for Modified Nodal Analysis](https://www.swarthmore.edu/NatSci/echeeve1/Ref/mna/MNA3.html)
