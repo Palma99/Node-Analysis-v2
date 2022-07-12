@@ -1,4 +1,3 @@
-* /Users/bryanvespignani/Documents/LTspice/Draft3.asc
 V1 N008 0 12
 R1 N007 N008 1k
 R2 N004 N007 1.5k
